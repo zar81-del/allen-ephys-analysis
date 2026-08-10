@@ -1,0 +1,28 @@
+# Data — regenerable or too large for Git
+data/raw/*
+data/processed/*
+!data/**/.gitkeep
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+venv/
+.venv/
+env/
+
+# Jupyter
+*.ipynb_checkpoints
+
+# Figures — outputs, regenerable from code
+figures/*
+!figures/.gitkeep
+
+# OS junk
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Secrets
+.env
+*.key
