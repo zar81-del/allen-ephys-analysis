@@ -1,6 +1,6 @@
 # Allen Ephys Analysis
 
-Analysis of intrinsic electrophysiological properties of neurons from the Allen Cell Types Database.
+Detailed analysis of intrinsic electrophysiological properties from the Allen Cell Types Database, focusing on cell-type-specific firing patterns.
 
 ## Motivation
 
