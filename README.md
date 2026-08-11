@@ -18,3 +18,10 @@ in this repository.
 ## Status
 
 In progress. Environment setup and analysis pipeline to follow.
+
+## Setup
+
+Clone the repository and install dependencies:
+
+    git clone https://github.com/zar81-del/allen-ephys-analysis.git
+    cd allen-ephys-analysis
