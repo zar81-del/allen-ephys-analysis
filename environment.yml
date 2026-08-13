@@ -1,0 +1,11 @@
+name: ephys
+channels:
+  - defaults
+dependencies:
+  - python=3.11
+  - pandas
+  - jupyter
+  - numpy
+  - matplotlib
+  - scipy
+
