@@ -23,8 +23,9 @@ In progress. Environment setup and analysis pipeline to follow.
 
 ## Setup
 
-Clone the repository and install dependencies:
+Clone the repository and create the environment:
 
     git clone https://github.com/zar81-del/allen-ephys-analysis.git
     cd allen-ephys-analysis
-Here, I am adding this line as a means to show that I can add a line to a separate version - the branch - without adding it to the main version
+    conda env create -f environment.yml
+    conda activate ephys
