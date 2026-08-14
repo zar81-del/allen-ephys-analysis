@@ -27,5 +27,8 @@ Clone the repository and create the environment:
 
     git clone https://github.com/zar81-del/allen-ephys-analysis.git
     cd allen-ephys-analysis
-    conda env create -f environment.yml
+    conda env create -f environment
     conda activate ephys
+
+## Western Blot Focus
+	The larger goal of this project is to gain skills that help me progress in my current lab position. We use western blot protein analysis for quantification, and I am aiming to gain skills that aid in the processing of our data. 
